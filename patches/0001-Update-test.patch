@@ -1,0 +1,19 @@
+From f4791753e919e785493d393141468c999c70a7ff Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 15:31:57 +0530
+Subject: [PATCH 1/8] Update test
+
+---
+ test | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/test b/test
+index ab4ec1c..25bb6e3 100644
+--- a/test
++++ b/test
+@@ -1 +1 @@
+-This is to test
++This is to test, testing to merge.
+-- 
+2.24.0.windows.2
+

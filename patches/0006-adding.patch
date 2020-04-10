@@ -1,0 +1,30 @@
+From af9becccf15246e284dbdb214e7bb8e796c4a563 Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 17:02:13 +0530
+Subject: [PATCH 6/8] adding
+
+---
+ test | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+diff --git a/test b/test
+index 5575e22..da4c2e0 100644
+--- a/test
++++ b/test
+@@ -1,7 +1,7 @@
+-This is to test
+ 
+-a
+-b
+-c
+-d
+-i am adding one more line 
++
++
++
++
++
++single file merge
+-- 
+2.24.0.windows.2
+

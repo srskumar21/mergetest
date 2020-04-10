@@ -1,0 +1,20 @@
+From 2d412f7c288b1e16110abdb4d8066d7b8dc428fa Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 15:53:20 +0530
+Subject: [PATCH 2/8] Create testFile1
+
+---
+ testFile1 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 testFile1
+
+diff --git a/testFile1 b/testFile1
+new file mode 100644
+index 0000000..2f9dbdb
+--- /dev/null
++++ b/testFile1
+@@ -0,0 +1 @@
++This is to check Merge functionality
+-- 
+2.24.0.windows.2
+

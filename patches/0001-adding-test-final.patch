@@ -1,0 +1,19 @@
+From ae82c26edbec92c39ea74199a1bd09fd1bd5d259 Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 18:32:53 +0530
+Subject: [PATCH] adding test final
+
+---
+ mergeTes | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/mergeTes b/mergeTes
+index e1e631a..9bbe82b 100644
+--- a/mergeTes
++++ b/mergeTes
+@@ -1 +1,2 @@
+ Testing MergeTesting
++Final
+-- 
+2.24.0.windows.2
+

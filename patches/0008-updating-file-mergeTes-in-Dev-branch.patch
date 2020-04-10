@@ -1,0 +1,19 @@
+From 45c1bbcef3b18803064b36468d2c6abc93734f66 Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 18:06:01 +0530
+Subject: [PATCH 8/8] updating file mergeTes in Dev branch
+
+---
+ mergeTes | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/mergeTes b/mergeTes
+index a57ebd9..8e6d719 100644
+--- a/mergeTes
++++ b/mergeTes
+@@ -1 +1 @@
+-I am from mergetest file.
++Testing MergeTest
+-- 
+2.24.0.windows.2
+

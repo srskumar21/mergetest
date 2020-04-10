@@ -1,0 +1,43 @@
+From 00802d2840372cd883292b98f458bf4b987184fc Mon Sep 17 00:00:00 2001
+From: srskumar21 <srskumar21@gmail.com>
+Date: Fri, 10 Apr 2020 16:42:11 +0530
+Subject: [PATCH 4/8] adding all the files to Dev branch
+
+---
+ file1 | 1 +
+ file2 | 1 +
+ test  | 5 +++++
+ 3 files changed, 7 insertions(+)
+ create mode 100644 file1
+ create mode 100644 file2
+
+diff --git a/file1 b/file1
+new file mode 100644
+index 0000000..ad38f0f
+--- /dev/null
++++ b/file1
+@@ -0,0 +1 @@
++My name is Sathish
+\ No newline at end of file
+diff --git a/file2 b/file2
+new file mode 100644
+index 0000000..5347a0e
+--- /dev/null
++++ b/file2
+@@ -0,0 +1 @@
++My name is Sathish kumar S R
+\ No newline at end of file
+diff --git a/test b/test
+index ab4ec1c..e0c250d 100644
+--- a/test
++++ b/test
+@@ -1 +1,6 @@
+ This is to test
++
++a
++b
++c
++d
+-- 
+2.24.0.windows.2
+
